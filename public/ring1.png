@@ -1,0 +1,13 @@
+{/*
+  This is an image asset (public/ring1.png), not a code file.
+  No code generation is required.
+
+  Asset Description:
+    - File type: PNG
+    - Dimensions: 200x200 pixels
+    - Resolution: 72 DPI
+    - Usage context: Overlay image for the virtual try-on feature, representing a specific ring style.
+    - Background transparency: Yes, transparent background to allow the hand to be visible.
+    - Responsive behavior: Scale proportionally with the hand image.
+    - Information: Image of a classic solitaire diamond ring.
+*/}
